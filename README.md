@@ -97,10 +97,10 @@ void loop()
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/w1.png?raw=true)
 ## On setup:
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/w2.png?raw=true)
-Output:
-Serial Monitor:
+## Output:
+## Serial Monitor:
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/w3.png?raw=true)
-Toggle Graph:
+## Toggle Graph:
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/w4.png?raw=true)
 
 ### RESULTS: 
